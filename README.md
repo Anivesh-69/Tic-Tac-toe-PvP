@@ -22,11 +22,11 @@ Instructions to be followed while playing Tic Tac Toe:
 "Enter Your Move:". 
 Example: You will see following in the terminal
 
-    1|2|3
-    4|5|6
-    7|8|9
-    Enter Your Move:
-    1              <--------------------- type number in this line.
+                1|2|3
+                4|5|6
+                7|8|9
+                Enter Your Move:
+                1              <--------------------- type number in this line.
 
 
 
