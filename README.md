@@ -62,19 +62,22 @@ And The program ends when the game is won by either player or the game is a draw
 
 i) The player who succeeds in placing three respective marks in a horizontal, vertical, or diagonal row wins the game.
    Example:
+   
                   X|X|O           X|X|O
                   X|_|_     or    _|X|_
                   X|O|O           O|O|X
                                      
 
 ii) if computer manages to get three 'O' vertically, horizontally or diagonally then computer wins.
-    Example:         
+    Example:  
+    
                   X|X|O           X|X|O
                   _|X|O     or    X|O|_
                   X|O|O           O|O|X
 
 
 7) Draw condition of game is: when all the squares have been filled with no winner
+
                                   X|X|O
                                   O|X|X
                                   X|O|O
